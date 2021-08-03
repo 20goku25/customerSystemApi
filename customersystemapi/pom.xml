@@ -33,8 +33,8 @@
 				<configuration>
 				<cloudHubDeployment>
 						<uri>https://anypoint.mulesoft.com/</uri>
-						<username>20gsd</username>
-						<password>Gaurid20</password>
+						<username>nayan_project</username>
+						<password>Nayan211</password>
 						<environment>Sandbox</environment>
 						<muleVersion>4.3.0</muleVersion>
 						<workers>1</workers>
